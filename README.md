@@ -11,10 +11,6 @@ Landing page for The Odin Project
 
 [@AminuAdavatu](https://www.twitter.com/AminuAdavatu)
 
-## Github repo
-
-This is the [link](https://github.com/AdavatuAminu/developer-portfolio) to the Github repo of the project
-
 ## Tech Stack
 
 **Client:** HTML, and CSS
